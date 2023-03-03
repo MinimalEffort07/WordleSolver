@@ -9,3 +9,5 @@ for i in range(int(food_add)):
     mochi_fav_food.append(new_food)
 print(mochi_fav_food)
 
+items_sold = ["bag", "shirt", "pants"]
+prices = [10, 45, 76]
